@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChedlyRebai/Node_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChedlyRebai/Node_js/issues"
+  },
+  "homepage": "https://github.com/ChedlyRebai/Node_js#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "marked": "^4.2.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.8.1",
+    "slugify": "^1.6.5"
+  }
+}
